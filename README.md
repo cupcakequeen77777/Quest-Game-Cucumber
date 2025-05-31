@@ -1,13 +1,12 @@
 # Quest-Game-Cucumber
 
-Quest-Game-Cucumber is an automated test suite designed to verify the end-to-end functionality of the Quest Game application using Cucumber and Selenium WebDriver. This project demonstrates robust **Test-Driven Development (TDD)** and **Behavior-Driven Development (BDD)** practices for web-based gaming environments.
+Quest-Game-Cucumber is an automated test suite designed to verify the end-to-end functionality of the Quest Game application using Cucumber. 
 
 The suite covers critical user flows, simulates real player actions, and validates key features to ensure a reliable gaming experience.
 
 ## Key Features
 
 * Automated UI Testing for Core Game Flows using Gherkin Scenarios
-* Cross-Browser Compatibility Checks
 * Scenario-Based Acceptance Tests with Cucumber
 * Integration with Continuous Integration Tools
 
@@ -17,7 +16,7 @@ The suite covers critical user flows, simulates real player actions, and validat
 * **Hotseat Approach**: Developed tests that simulate real multi-user scenarios, ensuring the game logic holds in shared or sequential play environments.
 * **Web-Based Automation**: Transitioned from manual to fully automated testing, demonstrating adaptability and code maintainability.
 
-### Test-Driven & Behavior-Driven Development (TDD & BDD)
+### Behavior-Driven Development (BDD)
 * **Responsibility Identification**: Broke down user stories into granular Gherkin feature files, ensuring full coverage of functional requirements.
 * **Commit Structure**: Used a systematic approach to match every tested scenario with corresponding automation code.
 
